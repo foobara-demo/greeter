@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+
+gem "foobara", "<= 2.0.0"
 gem "foobify-rails-app"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"

@@ -107,7 +107,7 @@ GEM
       foobara-lru-cache (< 2.0.0)
       foobara-util (< 2.0.0)
       inheritable-thread-vars (< 2.0.0)
-    foobara-files-generator (0.1.1)
+    foobara-files-generator (0.1.2)
       foobara (>= 0.1.1, < 2.0.0)
     foobara-lru-cache (1.0.0)
     foobara-sh-cli-connector (1.1.3)
@@ -244,7 +244,7 @@ GEM
     regexp_parser (2.11.3)
     reline (0.6.3)
       io-console (~> 0.5)
-    rubocop (1.84.0)
+    rubocop (1.84.1)
       json (~> 2.3)
       language_server-protocol (~> 3.17.0.2)
       lint_roller (~> 1.1.0)
@@ -329,6 +329,7 @@ DEPENDENCIES
   brakeman
   bundler-audit
   debug
+  foobara (<= 2.0.0)
   foobify-rails-app
   image_processing (~> 1.2)
   kamal
