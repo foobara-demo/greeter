@@ -5,7 +5,7 @@ class GreetingsController < ApplicationController
     if salutation =~ /\s*h*i*ss+\s*/i
       render json: {
         threatening_to_capybaras: {
-          path: [:salutation],
+          path: [ :salutation ],
           context: { threatening_salutation: salutation },
           message: "Do not hiss around our capybaras!"
         }
