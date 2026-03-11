@@ -102,7 +102,7 @@ GEM
     et-orbi (1.4.0)
       tzinfo
     ffi (1.17.3-x86_64-linux-gnu)
-    foobara (0.5.1)
+    foobara (0.5.9)
       bigdecimal
       foobara-lru-cache (< 2.0.0)
       foobara-util (< 2.0.0)
