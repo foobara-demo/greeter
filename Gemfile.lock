@@ -78,7 +78,7 @@ GEM
     ast (2.4.3)
     base64 (0.3.0)
     bcrypt_pbkdf (1.1.2)
-    bigdecimal (4.0.1)
+    bigdecimal (4.1.2)
     bootsnap (1.22.0)
       msgpack (~> 1.2)
     brakeman (8.0.2)
@@ -102,7 +102,7 @@ GEM
     et-orbi (1.4.0)
       tzinfo
     ffi (1.17.3-x86_64-linux-gnu)
-    foobara (0.5.1)
+    foobara (0.5.10)
       bigdecimal
       foobara-lru-cache (< 2.0.0)
       foobara-util (< 2.0.0)
